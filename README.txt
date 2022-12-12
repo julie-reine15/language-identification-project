@@ -14,9 +14,8 @@ avec python 3.9 sur MacOS 12.1 et python 3.6.9 sur Ubuntu 18.04.
 
 Les packages nécessaires à l'exécution du programme sont listés dans le fichier requirements.txt
 
-Le programme va permettre de détecter la langue d'une phrase, ou plus généralement 
-d'une string donnée en input par l'utilisateur. Il fournira également les métriques de performances 
-de chacune des méthodes de classifications pour chaque paramétrage.
+Le programme permet de détecter la langue d'une phrase, ou plus généralement 
+d'une chaine de caractères donnée en input par l'utilisateur. Il fournira également les métriques de performances de chacune des méthodes de classifications pour chaque paramétrage.
 
 Le programme ne nécessite pas d'argument pour être lancé. Il suffit d'exécuter la commande suivante dans le terminal : 
 python3 projet_LI.py
