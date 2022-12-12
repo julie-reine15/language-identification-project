@@ -17,5 +17,8 @@ Les packages nécessaires à l'exécution du programme sont listés dans le fich
 Le programme permet de détecter la langue d'une phrase, ou plus généralement 
 d'une chaine de caractères donnée en input par l'utilisateur. Il fournira également les métriques de performances de chacune des méthodes de classifications pour chaque paramétrage.
 
+Le notebook "model_trainings-LD.ipynb" permet d'entraîner chacun des modèles sur le jeu de donnée afin de mettre en oeuvre la détection. 
+Chaque modèle peut être directement chargé depuis les 4 fichiers model.
+
 Le programme ne nécessite pas d'argument pour être lancé. Il suffit d'exécuter la commande suivante dans le terminal : 
 python3 projet_LI.py
