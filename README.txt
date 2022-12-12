@@ -6,8 +6,7 @@ README - DÉTECTION DE LA LANGUE
 
 
 Ce programme vise à identifier la langue d'une phrase donnée en input\
-et alternativement à mesurer à l'aide de différentes métriques, les performances de
-2 méthodes de classifications paramétrées de différentes manières.
+et alternativement à mesurer à l'aide de différentes métriques, les performances de 2 méthodes de classifications paramétrées de différentes manières.
 
 Ce programme a été développé avec python 3.10 sur MacOS 12.1 et a été testé avec succès 
 avec python 3.9 sur MacOS 12.1 et python 3.6.9 sur Ubuntu 18.04.
